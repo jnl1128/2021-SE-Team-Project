@@ -78,6 +78,7 @@ docker-compose down $(docker ps -q)
 | Teacher   | 학생에 대한 출석 체크, 수업 및 학생 목록, 정보 조회, 출결 결과 및 공지사항 발송 | 이한용, 정나린 |
 | Student   | 수업 신청, 개인 출결현황 및 수업참여도 확인                                     | 박종혁, 윤진호 |
 
+### RR
 ## Requirements
 
 - [Core & Auth](/docs/Core/Requirements.md)
